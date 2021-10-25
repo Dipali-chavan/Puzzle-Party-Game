@@ -1,0 +1,17 @@
+﻿body {
+  
+    height: 100vh;
+    background-image: url("../img/5932330.jpg");
+    background-size:cover;
+    color:#5F9EA0;
+
+}
+h2{
+    font-weight:normal;
+    text-align:center;
+}
+h3{
+    font-weight:normal;
+    margin:3px 0px;
+    text-align:center;
+}
